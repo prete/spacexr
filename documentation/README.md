@@ -6,7 +6,7 @@ Dylan Cable
 ## Introduction
 
 The *spacexr* manual can be found
-[here](https://github.com/dmcable/spacexr/tree/master/spacexr_manual_2.0.0.pdf).
+[here](https://github.com/dmcable/spacexr/tree/master/spacexr_manual_2.2.1.pdf).
 
 Here, we will provide additional documentation on the *spacexr* R
 package. Other sources of spacexr documentation include the
